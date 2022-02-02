@@ -1,5 +1,5 @@
-## Hello there! Welcome to my little world! 
-<div align="center">
+## Hello there and Welcome! I'm Gustavo Castro :wave:  
+ <div>
   <a href="https://github.com/Gutscs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gutscs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutscs&layout=compact&langs_count=7&theme=dracula"/>
