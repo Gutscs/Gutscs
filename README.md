@@ -10,7 +10,12 @@
   <img align="center" alt="Guts-cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  </div>
  
- ##
+ ## Data Science Projects:
+ 
+### [Rossmann Store - Forecasting Sales](https://github.com/Gutscs/RossmannSales)
+  * Rossmann's CFO requested the store managers a prediction of their daily sales for up to six weeks in advance. The CFO wants to renovate each store by using part of the future store's revenue.
+  * **Solution:** A XGBoost Regressor model deployed in Heroku with a API that allows the user to get the predictions using a Telegram chat.
+       * Model obtained a MAPE of 9.84%.
  
 <div> 
   <a href = "mailto:gutscs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
