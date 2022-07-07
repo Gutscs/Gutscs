@@ -28,7 +28,11 @@
     * A **Hierarchical Clustering** model that groups the customers according to its characteristics, such as: gross revenue, recency days, frequency, quantity of products purchased and quantity of products returned.
     * The obtained cluster Insiders consists of 7 customers (0.12% of the total customers) who contribute with 11.9% ($1,201,978.37) of the company's revenue ($10,096,818.07) in the selected period.
     * The model was deployed using an AWS EC2 Instance running Ubuntu. The input data comes from a S3 Bucket and the output is saved on a PostgreSQL database in the AWS RDS, which can be accessed by the user and used to create dashboards and reports.
- 
+
+### [Client Churn Prediction - Classification](https://github.com/Gutscs/Client-Churn-Prediction)
+ * In progress...
+
+
 
 <div> 
   <a href = "mailto:gutscs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
