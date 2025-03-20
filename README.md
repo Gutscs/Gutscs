@@ -1,6 +1,5 @@
 ## Hello there and Welcome! I'm Gustavo Castro :wave:  
-
-## Data Science Projects:
+Data Science Projects:
  
 ### [Rossmann Store - Forecasting Sales](https://github.com/Gutscs/Rossmann-Forecasting-Sales)
   * Rossmann's CFO requested the store managers a prediction of their daily sales for up to six weeks in advance. The CFO wants to renovate each store by using part of the future store's revenue.
