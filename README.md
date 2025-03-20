@@ -1,10 +1,5 @@
 ## Hello there and Welcome! I'm Gustavo Castro :wave:  
- <div align="center">
-  <a href="https://github.com/Gutscs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gutscs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-  
- 
+
 ## Data Science Projects:
  
 ### [Rossmann Store - Forecasting Sales](https://github.com/Gutscs/Rossmann-Forecasting-Sales)
